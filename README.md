@@ -7,9 +7,12 @@
 - Web with ReactJS, Asp.Net Core, NodeJS and more.
   
 ### More about me
-<a href="https://in.linkedin.com/in/cl8dep">
+<a href="https://in.linkedin.com/in/cl8dep" target="_blank">
   <img align="left" alt="Linkedin" width="24px" src="Assets/Linkedin.svg" />
 </a>
-<a href="mailto:cl8dep@gmail.com">
+<a href="https://twitter.com/cl8dep" target="_blank">
+  <img align="left" alt="Linkedin" width="24px" src="Assets/Twitter.svg" />
+</a>
+<a href="mailto:cl8dep@gmail.com" target="_blank">
   <img align="left" alt="Gmail" width="26px" src="Assets/Gmail.svg" />
 </a>
