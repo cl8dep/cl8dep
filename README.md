@@ -21,6 +21,9 @@
 <a href="https://twitter.com/cl8dep" target="_blank">
   <img align="left" alt="Linkedin" width="24px" src="Assets/Twitter.svg" />
 </a>
+<a href="https://dev.azure.com/cl8dep" target="_blank">
+  <img align="left" alt="Linkedin" width="24px" src="Assets/Azure_DevOps.svg" />
+</a>
 <a href="mailto:cl8dep@gmail.com" target="_blank">
   <img align="left" alt="Gmail" width="26px" src="Assets/Gmail.svg" />
 </a>
