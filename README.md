@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Arael David. Computer Science Engineering student with more than 3 years in the world of software development and a passionate cross-platform developer.
 
-### I am a multi-platform developer.
+### I am a multi-platform and full-stack developer.
 - .Net and .Net Core
 - Android and Xamarin
 - Web with ReactJS, Asp.Net Core, NodeJS and more.
