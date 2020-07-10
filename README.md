@@ -7,7 +7,11 @@
 - Web with ReactJS, Asp.Net Core, NodeJS and more.
   
 ### More about me
-- 📫 How to reach me: cl8dep@gmail.com
+<a href="https://in.linkedin.com/in/cl8dep">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+
+
 
 
 <!--
