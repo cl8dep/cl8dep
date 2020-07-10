@@ -5,6 +5,14 @@
 - .Net and .Net Core
 - Android and Xamarin
 - Web with ReactJS, Asp.Net Core, NodeJS and more.
+
+### I enjoy programming with
+- C#
+- Kotlin
+- JS
+- VS.Net
+- Java
+- And more
   
 ### More about me
 <a href="https://in.linkedin.com/in/cl8dep" target="_blank">
