@@ -1,4 +1,13 @@
 ### Hi there 👋
+### I'm Arael David. Computer Science Engineering student with more than 3 years in the world of software development and a passionate cross-platform developer.
+
+### I am a multi-platform developer.
+1. .Net and .Net Core
+2. Android
+3. Web with ReactJS, NodeJS and more.
+
+- 📫 How to reach me: cl8dep@gmail.com
+
 
 <!--
 **cl8dep/cl8dep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
