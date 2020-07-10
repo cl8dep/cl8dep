@@ -6,8 +6,7 @@
 - Android and Xamarin
 - Web with ReactJS, Asp.Net Core, NodeJS and more.
   
-  
-
+### More about me
 - 📫 How to reach me: cl8dep@gmail.com
 
 
