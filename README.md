@@ -16,14 +16,14 @@
   
 ### More about me
 <a href="https://in.linkedin.com/in/cl8dep" target="_blank">
-  <img align="left" alt="Linkedin" width="24px" src="Assets/Linkedin.svg" />
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://twitter.com/cl8dep" target="_blank">
-  <img align="left" alt="Linkedin" width="24px" src="Assets/Twitter.svg" />
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Twitter.svg" />
 </a>
 <a href="https://dev.azure.com/cl8dep" target="_blank">
-  <img align="left" alt="Linkedin" width="24px" src="Assets/Azure_DevOps.svg" />
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Azure_DevOps.svg" />
 </a>
 <a href="mailto:cl8dep@gmail.com" target="_blank">
-  <img align="left" alt="Gmail" width="26px" src="Assets/Gmail.svg" />
+  <img align="left" alt="Gmail" width="26px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Gmail.svg" />
 </a>
