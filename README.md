@@ -13,6 +13,9 @@
 - VS.Net
 - Java
 - And more
+
+### See my recommended tools and binaries to develop software here
+https://github.com/cl8dep/Recommended-tools-and-binaries
   
 ### Give me support
 [![Buy me a coffe in cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/cl8dep)
