@@ -14,6 +14,8 @@
 - Java
 - And more
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cl8dep)](https://github.com/anuraghazra/github-readme-stats)
+
 ### See my recommended tools and binaries to develop software here
 https://github.com/cl8dep/Recommended-tools-and-binaries  
 
