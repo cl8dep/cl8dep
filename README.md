@@ -18,8 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl8dep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### See my recommended tools and binaries to develop software here
-https://github.com/cl8dep/Recommended-tools-and-binaries  
+### See my recommended tools and binaries to develop software [here](https://github.com/cl8dep/Recommended-tools-and-binaries)
 
 ### More about me
 <a href="https://in.linkedin.com/in/cl8dep" target="_blank">
