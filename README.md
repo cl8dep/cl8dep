@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Arael David. Computer Science Engineering student with more than 3 years in the world of software development and a passionate cross-platform developer.
+### I'm Arael David. Computer Science Engineering student with more than 5 years in the world of software development and a passionate cross-platform developer.
 
 ### I am a multi-platform and full-stack developer.
 - .Net and .Net Core
@@ -17,8 +17,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cl8dep&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl8dep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### See my recommended tools and binaries to develop software [here](https://github.com/cl8dep/Recommended-tools-and-binaries)
 
 ### More about me
 <a href="https://in.linkedin.com/in/cl8dep" target="_blank">
