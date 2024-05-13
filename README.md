@@ -14,6 +14,9 @@
 - Java
 - And more
 
+### My best projects
+- [Taste Wine](https://github.com/cl8dep/TasteWine)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cl8dep&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl8dep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
