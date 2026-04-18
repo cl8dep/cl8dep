@@ -4,15 +4,11 @@ Software Engineer based in Montevideo, Uruguay. I build cross-platform tools, De
 
 Currently at **[Heva Co.](https://github.com/Heva-Co)** — building developer tools and GitHub ecosystem integrations.
 
----
-
 ## Tech Stack
 
 **Languages:** C# · Kotlin · Java · JavaScript  
 **Platforms:** .NET / ASP.NET Core · Android · Node.js · ReactJS  
 **Cloud & DevOps:** Google Cloud Platform · GitHub Actions · CI/CD pipelines
-
----
 
 ## Featured Projects
 
