@@ -1,30 +1,40 @@
-### Hi there 👋
-### I'm Arael David, Computer Science Engineering student and DevOps (specialist on Google Cloud Platform) with more than 5 years in the world of software development and a passionate cross-platform developer. 
+# Hi, I'm Arael 👋
 
-### I am a multi-platform and full-stack developer.
-- .Net and .Net Core
-- Android and Xamarin
-- Web with ReactJS, Asp.Net Core, NodeJS and more.
+Software Engineer based in Montevideo, Uruguay. I build cross-platform tools, DevOps automation, and the occasional operating system.
 
-### I enjoy programming with
-- C#
-- Kotlin
-- JS
-- VS.Net
-- Java
-- And more
+Currently at **[Heva Co.](https://github.com/Heva-Co)** — building developer tools and GitHub ecosystem integrations.
 
-### My best projects
-- [Taste Wine](https://github.com/cl8dep/TasteWine)
+---
+
+## Tech Stack
+
+**Languages:** C# · Kotlin · Java · JavaScript  
+**Platforms:** .NET / ASP.NET Core · Android · Node.js · ReactJS  
+**Cloud & DevOps:** Google Cloud Platform · GitHub Actions · CI/CD pipelines
+
+---
+
+## Featured Projects
+
+### [Bazzulto OS](https://github.com/cl8dep/bazzulto-os)
+An ARM-based operating system built collaboratively with AI under human supervision. A research project exploring what AI-assisted systems engineering looks like at the kernel level.
+
+### [DB Migrator](https://github.com/cl8dep/db-migrator)
+A database migration tool designed for simplicity and reliability across environments. Schema versioning and migration execution in a single, dependency-free binary.
+
+### [DNS Sync](https://github.com/cl8dep/dns-sync)
+[![CI](https://github.com/cl8dep/dns-sync/actions/workflows/ci.yml/badge.svg)](https://github.com/cl8dep/dns-sync/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/cl8dep/dns-sync)](https://github.com/cl8dep/dns-sync/releases/latest)
+
+DNS as code. One binary. Define your DNS zones as YAML and sync them across providers — works like Terraform for DNS with `plan` and `apply` commands. No runtime, no dependencies.
+
+## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cl8dep&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl8dep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### More about me
-<a href="https://in.linkedin.com/in/cl8dep" target="_blank">
-  <img align="left" alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="mailto:cl8dep@gmail.com" target="_blank">
-  <img align="left" alt="Gmail" width="26px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Gmail.svg" />
-</a>
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cl8dep-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl8dep)
+[![GitHub](https://img.shields.io/badge/GitHub-cl8dep-181717?logo=github&logoColor=white)](https://github.com/cl8dep)
